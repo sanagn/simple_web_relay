@@ -1,4 +1,3 @@
-#https://how2electronics.com/iot-controlled-relay-using-raspberry-pi-pico-w-wifi/
 from machine import Pin
 import network
 import time
